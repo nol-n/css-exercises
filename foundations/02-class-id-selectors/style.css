@@ -1,0 +1,21 @@
+p.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #ffcccb;
+    font-size: 16px;
+    color: black;
+}
+
+#elem-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+p.adjust-font {
+    font-size: 24px;
+}
+
+#elem-4 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
